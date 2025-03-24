@@ -2,9 +2,11 @@
 name = "rolling-buffer"
 version = "0.1.0"
 edition = "2024"
+description = "A simple circular heap buffer wrapper around the Vec"
 authors = ["Artyom Baryshnikov"]
 license-file = "LICENSE"
 keywords = ["buffer", "circular", "rolling", "util"]
 readme = "README.md"
 repository = "https://github.com/ArtyomBA/rolling-buffer"
+homepage = "https://github.com/ArtyomBA/rolling-buffer"
 [dependencies]
